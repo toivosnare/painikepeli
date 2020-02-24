@@ -4,7 +4,11 @@ Ohjelman kääntämiseen tarvitaan Flutter SDK, jonka voi ladata Flutterin [www-
 ```
 flutter build apk
 ```
-Ohjelmaa voi testata myös adb:n kautta komennolla
+Seuraavaksi ohjelman voi asentaa automaattisesti adb:n kautta komennolla
+```
+flutter install
+```
+Ohjelmaa voi myös testata debug-moodissa adb:n kautta komennolla
 ```
 flutter run -d <deviceId>
 ```
