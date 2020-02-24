@@ -1,4 +1,4 @@
-# Painikepeli asiakas
+# Painikepeliasiakas
 
 Ohjelman kääntämiseen tarvitaan Flutter SDK, jonka voi ladata Flutterin [www-sivuilta](https://flutter.dev/docs/get-started/install). Tämän jälkeen ohjelman voi kääntää esimerkiksi Android apk-tiedostoksi komenolla
 ```
