@@ -1,0 +1,3 @@
+[submodule "painikepeli-server"]
+	path = server
+	url = https://github.com/toivosnare/painikepeli-server.git
