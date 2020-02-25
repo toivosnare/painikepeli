@@ -8,8 +8,8 @@ import 'dart:convert';
 // A page where user can earn point by pressing a button
 class GamePage extends StatefulWidget {
 
-  String serverAddress;
-  String username;
+  final String serverAddress;
+  final String username;
 
   GamePage({this.serverAddress, this.username});
 
