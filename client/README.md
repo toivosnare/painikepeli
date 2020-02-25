@@ -6,7 +6,7 @@ flutter build apk
 ```
 Seuraavaksi ohjelman voi asentaa automaattisesti adb:n kautta komennolla
 ```
-flutter install
+flutter install -d <deviceId>
 ```
 Ohjelmaa voi myös testata debug-moodissa adb:n kautta komennolla
 ```
